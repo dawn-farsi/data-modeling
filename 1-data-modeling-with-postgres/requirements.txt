@@ -1,0 +1,7 @@
+numpy==1.18.2
+pandas==1.0.3
+psycopg2==2.8.5 #postgres db adopter, for heavily multi-threaded application
+python-dateutil==2.8.1
+pytz==2019.3
+six==1.14.0
+ipython-sql #needed for writing sql queries directly in jupyter notebook
